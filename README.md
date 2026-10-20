@@ -14,4 +14,16 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
