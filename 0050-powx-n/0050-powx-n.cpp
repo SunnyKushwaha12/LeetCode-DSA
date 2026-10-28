@@ -3,18 +3,18 @@ class Solution {
 public:
     double myPow(double x, int n) {
         double ans = 1.0;
-        long long nn = n;
+        long long N = n;
 
-        if (nn < 0) nn = -1 * nn;
+        if (N < 0) N = -1 * N;
 
-        while (nn) {
-            if (nn % 2) {
+        while (N) {
+            if (N % 2) {
                 ans = ans * x;
-                nn = nn - 1;
+                N = N - 1;
             }
             else {
                 x = x * x;
-                nn = nn / 2;
+                N = N / 2;
             }
         }
 
