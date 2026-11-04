@@ -27,7 +27,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 
-
+<!---LeetCode Topics End-->
 
 ## About
 My LeetCode solutions for DSA practice.
@@ -39,4 +39,3 @@ My LeetCode solutions for DSA practice.
 - Sliding Window
 - Binary Search
 
-<!---LeetCode Topics End-->
