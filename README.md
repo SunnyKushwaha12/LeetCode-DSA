@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
@@ -26,7 +27,14 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
-
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
 
 ## About
