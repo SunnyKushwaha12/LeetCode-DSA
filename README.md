@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
 | [0227-basic-calculator-ii](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 ## String
 |  |
@@ -35,6 +36,10 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0051-n-queens) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
 
 ## About
