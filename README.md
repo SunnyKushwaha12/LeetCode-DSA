@@ -7,11 +7,13 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
 | [0227-basic-calculator-ii](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
+| [0282-expression-add-operators](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 ## String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
+| [0282-expression-add-operators](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
