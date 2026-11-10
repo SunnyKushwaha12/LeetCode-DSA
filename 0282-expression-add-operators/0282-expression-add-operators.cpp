@@ -9,7 +9,6 @@ public:
             }
             return;
         }
-
         // try diff, number that starts from thr index
         for(int i=idx; i<num.size(); i++){
 
