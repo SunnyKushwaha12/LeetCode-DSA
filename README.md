@@ -49,6 +49,7 @@
 | [0093-restore-ip-addresses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0282-expression-add-operators](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 | [0784-letter-case-permutation](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0784-letter-case-permutation) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1980-find-unique-binary-string](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Algorithm X
 |  |
@@ -66,6 +67,10 @@
 |  |
 | ------- |
 | [0784-letter-case-permutation](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0784-letter-case-permutation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
 <!---LeetCode Topics End-->
 
 ## About
