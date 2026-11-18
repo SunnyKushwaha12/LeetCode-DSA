@@ -8,6 +8,7 @@
 | [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
 | [0227-basic-calculator-ii](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0282-expression-add-operators](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0282-expression-add-operators) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0784-letter-case-permutation) |
 ## Breadth-First Search
 |  |
