@@ -8,6 +8,7 @@
 | [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
 | [0227-basic-calculator-ii](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
 | [0282-expression-add-operators](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0282-expression-add-operators) |
+| [0390-elimination-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0390-elimination-game) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
+| [0390-elimination-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0390-elimination-game) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Depth-First Search
 |  |
