@@ -7,6 +7,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
 | [0227-basic-calculator-ii](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 | [0390-elimination-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0390-elimination-game) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
@@ -17,6 +18,7 @@
 | [0079-word-search](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0227-basic-calculator-ii](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 | [0784-letter-case-permutation](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0784-letter-case-permutation) |
 | [1980-find-unique-binary-string](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0390-elimination-game) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Depth-First Search
@@ -76,6 +79,18 @@
 |  |
 | ------- |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
 
 ## About
