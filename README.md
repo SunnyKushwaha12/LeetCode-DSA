@@ -10,6 +10,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 | [0390-elimination-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
@@ -32,6 +33,7 @@
 | [0051-n-queens](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0079-word-search) |
+| [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [1980-find-unique-binary-string](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@
 | [0060-permutation-sequence](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Depth-First Search
 |  |
@@ -83,6 +86,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -91,6 +95,18 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
 
 ## About
