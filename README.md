@@ -12,6 +12,7 @@
 | [0390-elimination-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0079-word-search) |
 | [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0877-stone-game) |
 | [1980-find-unique-binary-string](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
@@ -87,6 +89,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -99,14 +102,17 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
 
 ## About
