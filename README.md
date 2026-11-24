@@ -113,6 +113,10 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/SunnyKushwaha12/LeetCode-DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
 
 ## About
